@@ -1,0 +1,4 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">FlipGame</string>
+    <string name="hint">最快还需<xliff:g id="xxx">%1d</xliff:g>步可以完成游戏</string>
+</resources>

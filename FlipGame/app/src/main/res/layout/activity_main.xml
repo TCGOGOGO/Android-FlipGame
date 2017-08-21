@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:columnCount="4"
+        android:rowCount="5">
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn0"
+            android:layout_marginRight="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn1"
+            android:layout_marginRight="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn2"
+            android:layout_marginRight="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn3"
+            android:layout_marginRight="10dp"
+            style="@style/MyButtonStyle" />
+
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn4"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn5"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn6"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn7"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn8"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn9"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn10"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn11"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn12"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn13"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn14"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <com.tcgogogo.flipgame.MyButton android:id="@+id/btn15"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            style="@style/MyButtonStyle" />
+    <TextView
+            android:id="@+id/hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:layout_columnSpan="4"
+            android:textSize="25dp"/>
+
+</GridLayout>
+
